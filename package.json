@@ -1,0 +1,24 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node meadowlark.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITigor1985/express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ITigor1985/express/issues"
+  },
+  "homepage": "https://github.com/ITigor1985/express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2"
+  }
+}
